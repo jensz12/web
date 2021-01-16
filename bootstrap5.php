@@ -15,8 +15,7 @@
 <meta name="twitter:title" content="Forside - Jens Møller">
 <meta name="twitter:description" content="Forside - Jens Møller">
 <meta name="twitter:image:src" content="https://www.gravatar.com/avatar/5ce60652703ef30780a3cbb1c0eb0317?s=2000">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-<link rel="manifest" href="/manifest.json">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous"><link rel="manifest" href="/manifest.json">
 <link rel="image_src" href="https://www.gravatar.com/avatar/5ce60652703ef30780a3cbb1c0eb0317?s=2000">
 <link href='https://fonts.googleapis.com/css?family=Roboto:100,300' rel='stylesheet' type='text/css'>
 <script src="https://kit.fontawesome.com/1dedeee01c.js" crossorigin="anonymous"></script><style>
@@ -105,24 +104,21 @@ body {
 </head>
 <body>
 <div class="container">
-  <div class="row">
-    <div class="col-lg-12 col-md-12">
-      <div class="jumbotron">
-        <h1 class="display-1 text-center">Jens Møller</h1>
-          <div class="text-center">
-            <img src="https://www.gravatar.com/avatar/5ce60652703ef30780a3cbb1c0eb0317?s=1000" class="img-fluid center-block" alt="Jens" width="400px">
-          </div>
-        <h3 class="text-center"><i class="fas fa-heart"></i></h3>
-        <h3 class="text-center"><a href="https://twitter.com/jensz12"><i class="fab fa-twitter"data-toggle="tooltip" data-placement="top" title="Twitter"></i></a><a href="https://discord.gg/JzpHkvM"><i class="fab fa-discord"data-toggle="tooltip" data-placement="top" title="Discord"></i></a><a href="https://github.com/jensz12"><i class="fab fa-github" data-toggle="tooltip" data-placement="top" title="Github"></i></a><a href="https://instagram.com/jensz12"><i class="fab fa-instagram" data-toggle="tooltip" data-placement="top" title="Instagram"></i></a><a href="https://snapchat.com/add/jensz12"><i class="fab fa-snapchat" data-toggle="tooltip" data-placement="top" title="Snapchat"></i></a></h3>
-      </div>
-    </div>
-  </div>
+	<div class="row">
+    	<div class="col-sm-6">
+			<div class="card">
+ 				<img src="https://www.gravatar.com/avatar/5ce60652703ef30780a3cbb1c0eb0317?s=1000" class="card-img-top img-fluid center-block" alt="...">
+  				<div class="card-body">
+    				<h1 class="card-title text-center">Jens Møller</h5>
+					<h3 class="text-center"><i class="fas fa-heart" data-toggle="tooltip" data-placement="top" title="Ray Ray"></i></h3>
+					<h3 class="text-center"><a href="https://twitter.com/jensz12"><i class="fab fa-twitter"data-toggle="tooltip" data-placement="top" title="Twitter"></i></a><a href="https://discord.gg/JzpHkvM"><i class="fab fa-discord"data-toggle="tooltip" data-placement="top" title="Discord"></i></a><a href="https://github.com/jensz12"><i class="fab fa-github" data-toggle="tooltip" data-placement="top" title="Github"></i></a><a href="https://instagram.com/jensz12"><i class="fab fa-instagram" data-toggle="tooltip" data-placement="top" title="Instagram"></i></a><a href="https://snapchat.com/add/jensz12"><i class="fab fa-snapchat" data-toggle="tooltip" data-placement="top" title="Snapchat"></i></a></h3>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
-<!--<script src="https://static.jensz12.com/script/snowstorm.js"></script>-->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-<script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script><script>
 $(function () {
 $('[data-toggle="tooltip"]').tooltip()
 })
