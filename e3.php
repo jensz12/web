@@ -19,7 +19,6 @@
 <link rel="image_src" href="https://www.gravatar.com/avatar/5ce60652703ef30780a3cbb1c0eb0317?s=2000">
 <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-LRlmVvLKVApDVGuspQFnRQJjkv0P7/YFrw84YYQtmYG4nK8c+M+NlmYDCv0rKWpG" crossorigin="anonymous">
 <link href='https://fonts.googleapis.com/css?family=Roboto:100,300' rel='stylesheet' type='text/css'>
-<link href="https://static.jensz12.com/lightbox/css/lightbox.css" rel="stylesheet">
 <style>
 body {
 	background-image: url(https://design.jensz12.com/images/e3-2019.jpg);
@@ -44,7 +43,7 @@ h1 {
 }
 
 @media (prefers-color-scheme: light) {
-  
+
   .card-title, h1, h2, p, b, card-text, a:link, a:visited, th, tr {
     color: black;
   }
@@ -57,7 +56,7 @@ h1 {
 }
 
 @media (prefers-color-scheme: dark) {
-  
+
   .card-title, h1, h2, p, b, card-text, a:link, a:visited, th, tr {
     color: white;
   }
@@ -141,14 +140,13 @@ h1 {
 							width: "100%",
 							height: 500,
 							theme: "dark",
-							channel: "jensz123"
+							channel: "jensz12"
 							});
 					</script>
 				</div>
 			</div>
 		</article>
 	</div>
-	<!--<script src="https://static.jensz12.com/script/snowstorm.js"></script>-->
 	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
