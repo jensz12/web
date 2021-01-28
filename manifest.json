@@ -1,25 +1,60 @@
-{
-	"name": "Jens",
-	"short_name": "Jens",
-	"start_url": "https://jensz12.com/",
-	"display": "standalone",
-	"theme_color": "#A81010",
-	"background_color": "#A81010",
-	"icons": [
-		{
-			"src": "https://static.jensz12.com/images/48.png",
-			"sizes": "48x48",
-			"type": "image/png"
-		},
-		{
-			"src": "https://static.jensz12.com/images/96.png",
-			"sizes": "96x96",
-			"type": "image/png"
-		},
-		{
-			"src": "https://static.jensz12.com/images/192.png",
-			"sizes": "192x192",
-			"type": "image/png"
-		}
-	]
-}
+	{
+		"short_name": "Jens",
+		"name": "Jens",
+		"description": "Jens!",
+		"icons": [
+			{
+				"src": "https://static.jensz12.com/images/96.png",
+				"type": "image/png",
+				"sizes": "96x96"
+			},
+			{
+				"src": "https://static.jensz12.com/images/192.png",
+				"type": "image/png",
+				"sizes": "192x192"
+			}
+		],
+		"start_url": "/",
+		"background_color": "#A81010",
+		"display": "standalone",
+		"scope": "/",
+		"theme_color": "#A81010",
+		"shortcuts": [
+			{
+				"name": "Party",
+				"short_name": "Party Parrot",
+				"description": "The Parrot insists",
+				"url": "/party",
+				"icons": [
+					{
+						"src": "https://static.jensz12.com/images/parrot.192.png",
+						"sizes": "192x192"
+					}
+				]
+			},
+			{
+				"name": "E3",
+				"short_name": "E3 Schedule",
+				"description": "Schedlue for E3",
+				"url": "/e3",
+				"icons": [
+					{
+						"src": "https://static.jensz12.com/images/e3.192.png",
+						"sizes": "192x192"
+					}
+				]
+			},
+			{
+				"name": "Kaj",
+				"short_name": "Kaj",
+				"description": "Kaj says hello",
+				"url": "/kaj",
+				"icons": [
+					{
+						"src": "https://static.jensz12.com/images/kaj.192.png",
+						"sizes": "192x192"
+					}
+				]
+			}
+		]
+	}
