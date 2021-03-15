@@ -5,15 +5,15 @@
 <meta charset="utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Forside - Jens Møller</title>
+<title>Stream art - Jens Møller</title>
 <link rel="icon" href="https://jensz12.com/favicon.png">
-<meta name="description" content="Forside - Jens Møller">
+<meta name="description" content="Stream art - Jens Møller">
 <meta name="theme-color" content="#A81010">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@jensz12">
 <meta name="twitter:creator" content="@jensz12">
-<meta name="twitter:title" content="Forside - Jens Møller">
-<meta name="twitter:description" content="Forside - Jens Møller">
+<meta name="twitter:title" content="Stream art - Jens Møller">
+<meta name="twitter:description" content="Stream art - Jens Møller">
 <meta name="twitter:image:src" content="https://www.gravatar.com/avatar/5ce60652703ef30780a3cbb1c0eb0317?s=2000">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 <link rel="manifest" href="/manifest.json">
@@ -108,13 +108,13 @@ body {
   	<div class="row">
     	<div class="col-lg-12 col-md-12">
       		<div class="jumbotron">
-    			<h1 class="display-1 text-center">Jens Møller</h1>
-        		<div class="text-center">
-            		<img src="https://www.gravatar.com/avatar/5ce60652703ef30780a3cbb1c0eb0317?s=1000" class="img-fluid center-block" alt="Jens" width="400px">
-          		</div>
-        			<h3 class="text-center"><i class="fas fa-heart"></i></h3>
-        			<h3 class="text-center"><a href="https://twitter.com/jensz12"><i class="fab fa-twitter"data-toggle="tooltip" data-placement="top" title="Twitter"></i></a><a href="https://discord.gg/JzpHkvM"><i class="fab fa-discord"data-toggle="tooltip" data-placement="top" title="Discord"></i></a><a href="https://github.com/jensz12"><i class="fab fa-github" data-toggle="tooltip" data-placement="top" title="Github"></i></a><a href="https://instagram.com/jensz12"><i class="fab fa-instagram" data-toggle="tooltip" data-placement="top" title="Instagram"></i></a><a href="https://snapchat.com/add/jensz12"><i class="fab fa-snapchat" data-toggle="tooltip" data-placement="top" title="Snapchat"></i></a></h3>
-     		</div>
+				<p>Baggrund, alerts og jensz1Moon er lavet af Signe</p>
+				<p>Kamera overlay, og effekter på videoen i baggrunden er lavet af <a href="https://twitter.com/kvaek">Jonas</a></p>
+				<p>jensz1Bertha er lavet af <a href="https://twitter.com/SKristensen_">Simone</a></p>
+				<p>jensz1TechSupport er lavet af <a href="https://www.fiverr.com/xoriley">xoriley</a></p>
+				<p>Resten er lavet af mig selv</p>
+				<p>Paneler er lavet med <a href="https://potimages.rknight.me/">følgende webside</a></p>
+			</div>
     	</div>
 	</div>
 </div>
