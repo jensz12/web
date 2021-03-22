@@ -14,10 +14,10 @@
 <meta name="twitter:creator" content="@jensz12">
 <meta name="twitter:title" content="The Midnight Lyrics Bot - Jens Møller">
 <meta name="twitter:description" content="The Midnight Lyrics Bot - Jens Møller">
-<meta name="twitter:image:src" content="https://www.gravatar.com/avatar/5ce60652703ef30780a3cbb1c0eb0317?s=2000">
+<meta name="twitter:image:src" content="https://static.jensz12.com/images/avatar.jpg">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
 <link rel="manifest" href="/manifest.json">
-<link rel="image_src" href="https://www.gravatar.com/avatar/5ce60652703ef30780a3cbb1c0eb0317?s=2000">
+<link rel="image_src" href="https://static.jensz12.com/images/avatar.jpg">
 <link href='https://fonts.googleapis.com/css?family=Roboto:100,300' rel='stylesheet' type='text/css'>
 <script src="https://kit.fontawesome.com/1dedeee01c.js" crossorigin="anonymous"></script>
 <style>
