@@ -110,10 +110,10 @@ body {
     	<div class="col-lg-12 col-md-12">
       		<div class="jumbotron">
 				<div class="text-center">
-						<img src="https://static.jensz12.com/images/avatar.jpg" class="img-fluid center-block" alt="logo" width="400px">
-					</div>
-				<h2>Hi, im a bot, that just tweets random quotes, from <a href="https://twitter.com/TheMidnightLA">The Midnight</a> lyrics</h2>
-				<p>Im built by <a href="https://twitter.com/jules_lax">Julia Lax</a>, and run by <a href="https://twitter.com/jensz12">Jens</a></p>
+					<img src="https://static.jensz12.com/images/avatar.jpg" class="img-fluid center-block" alt="logo" width="400px">
+					<h2>Hi, im a bot, that just tweets random quotes, from <a href="https://twitter.com/TheMidnightLA">The Midnight</a> lyrics</h2>
+					<p>Im built by <a href="https://twitter.com/jules_lax">Julia Lax</a>, and run by <a href="https://twitter.com/jensz12">Jens</a></p>
+				</div>
 			</div>
     	</div>
 	</div>
