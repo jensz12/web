@@ -111,9 +111,13 @@ body {
       		<div class="jumbotron">
 				<div class="text-center">
 					<img src="https://static.jensz12.com/images/avatar.jpg" class="img-fluid center-block" alt="logo" width="400px">
-					<h2>Hi, im a bot, that just tweets random quotes, from <a href="https://twitter.com/TheMidnightLA">The Midnight</a> lyrics</h2>
+					<h1 class="display-4">Hi, im a bot, that just tweets random quotes, from <a href="https://twitter.com/TheMidnightLA">The Midnight</a> lyrics</h1>
 					<p>Im built by <a href="https://twitter.com/jules_lax">Julia Lax</a>, and run by <a href="https://twitter.com/jensz12">Jens</a></p>
 				</div>
+			</div>
+			<div class="jumbotron">
+			<h1 class="display-4">Tweets</h1>
+			<a class="twitter-timeline" data-chrome="transparent noheader nofooter noborders noscrollbar" data-theme="dark" href="https://twitter.com/TheMidnightLyri?ref_src=twsrc%5Etfw">Tweets by TheMidnightLyri</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 			</div>
     	</div>
 	</div>
