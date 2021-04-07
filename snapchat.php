@@ -29,6 +29,7 @@ body {
 	height: 100%;
 	font-family: 'Roboto', sans-serif;
 	padding-top: 35px;
+	padding-bottom: 35px;
 }
 .img {
     margin : 10px;
@@ -42,9 +43,7 @@ body {
   }
   .jumbotron, .card {
     background-color: white;
-    margin-bottom: 30px;
-    margin-top: 30px;
-	margin-right: 30px;
+    margin: 30px;
   }
 }
 
@@ -55,9 +54,7 @@ body {
   }
   .jumbotron, .card {
     background-color: #212121;
-    margin-bottom: 30px;
-    margin-top: 30px;
-	margin-right: 30px;
+	margin: 30px;
   }
 }
 </style>
