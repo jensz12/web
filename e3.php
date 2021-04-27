@@ -21,7 +21,7 @@
 <link href='https://fonts.googleapis.com/css?family=Roboto:100,300' rel='stylesheet' type='text/css'>
 <style>
 body {
-	background-image: url(https://design.jensz12.com/images/e3-2019.jpg);
+	background-image: url(https://design.jensz12.com/images/e3-2021.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
@@ -74,7 +74,10 @@ h1 {
 	<div class="row">
 		<article class="col-lg-12 col-md-12">
 			<div class="jumbotron">
-				<h1> E3 2021 starter om:</h1>
+				<div class="text-center">
+            		<img src="https://design.jensz12.com/images/E3Logo21.png" class="img-fluid center-block" alt="E3" width="400px">
+          		</div>
+				<h1>Starter om:</h1>
 				<h1 id="countdown"></h1>
 			</div>
 			<div class="jumbotron">
@@ -110,8 +113,8 @@ h1 {
 							</tr>
 							<tr>
 								<td><a href="#">Ubisoft</a></td>
-								<td>TBA</td>
-								<td>TBA</td>
+								<td>Lørdag den 12. juni</td>
+								<td>21:00</td>
 							</tr>
 							<tr>
 								<td><a href="#">Square Enix</a></td>
@@ -150,7 +153,7 @@ h1 {
 	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
 	<script>
-	var countDownDate = new Date("Jun 15, 2021 22:00:00").getTime();
+	var countDownDate = new Date("Jun 12, 2021 22:00:00").getTime();
 	var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate - now;

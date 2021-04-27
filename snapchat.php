@@ -122,6 +122,29 @@ body {
     </div>
   </div>
 </div>
+<div class="card-group">
+  <div class="card">
+    <img src="https://static.jensz12.com/snapchat/kaj.svg" class="card-img-top">
+    <div class="card-body">
+      <h5 class="card-title">Kaj</h5>
+	  <a class="btn btn-primary" href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=067dfd248d054119a7204040985a68f8&metadata=01" role="button"><i class="fab fa-snapchat"></i> Åben i Snapchat</a>
+    </div>
+  </div>
+  <!--<div class="card">
+    <img src="https://static.jensz12.com/snapchat/kvaek.svg" class="card-img-top">
+    <div class="card-body">
+      <h5 class="card-title">Kvæk</h5>
+	  <a class="btn btn-primary" href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=5e9b15563d494c4c8a9d3950804957e0&metadata=01" role="button"><i class="fab fa-snapchat"></i> Åben i Snapchat</a>
+    </div>
+  </div>
+  <div class="card">
+    <img src="https://static.jensz12.com/snapchat/spirit55555.svg" class="card-img-top">
+    <div class="card-body">
+      <h5 class="card-title">Spirit55555</h5>
+	  <a class="btn btn-primary" href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=8f8993eb36e043c98dfdfe07485c36bf&metadata=01" role="button"><i class="fab fa-snapchat"></i> Åben i Snapchat</a>
+    </div>
+  </div>-->
+</div>
 </div>
 </div>
 </div>
