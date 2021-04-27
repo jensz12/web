@@ -1,6 +1,6 @@
 <?php
 $artwork = file_get_contents('https://jensz12.com/artwork.php');
-$text = file_get_contents('https://jensz12.com/playing.php');
+$playing = file_get_contents('https://jensz12.com/playing.php');
 ?>
 <!DOCTYPE html>
 <html lang="da">
@@ -43,7 +43,7 @@ body {
 			<div class="card">
 			<span id="artwork"></span>
 			<div class="card-body">
-			<h1 class="text-center"><span id="text"></span></h1>
+			<h1 class="text-center"><span id="playing"></span></h1>
 			</div>
 			</div>
 		</article>
@@ -59,7 +59,7 @@ function worker(){
 		cache: false
 	});
 	$("#artwork").load('artwork.php');
-	$("#text").load('playing.php');
+	$("#playing").load('playing.php');
 }
 $(function(){
 	worker();
