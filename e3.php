@@ -75,7 +75,7 @@ h1 {
 		<article class="col-lg-12 col-md-12">
 			<div class="jumbotron">
 				<div class="text-center">
-            		<img src="https://design.jensz12.com/images/E3Logo21.png" class="img-fluid center-block" alt="E3" width="400px">
+            		<img src="https://design.jensz12.com/images/E32022.png" class="img-fluid center-block" alt="E3" width="400px">
           		</div>
 				<h1>Starter om:</h1>
 				<h1 id="countdown"></h1>
@@ -92,17 +92,7 @@ h1 {
 						</thead>
 						<tbody>
 							<tr>
-								<td><a href="#">EA</a></td>
-								<td>TBA</td>
-								<td>TBA</td>
-							</tr>
-							<tr>
-								<td><a href="#">Microsoft</a></td>
-								<td>TBA</td>
-								<td>TBA</td>
-							</tr>
-							<tr>
-								<td><a href="#">Bethesda</a></td>
+								<td><a href="#">Microsoft & Bethesda</a></td>
 								<td>TBA</td>
 								<td>TBA</td>
 							</tr>
@@ -112,17 +102,17 @@ h1 {
 								<td>TBA</td>
 							</tr>
 							<tr>
+								<td><a href="#">Future Games Show</a></td>
+								<td>TBA</td>
+								<td>TBA</td>
+							</tr>
+							<tr>
 								<td><a href="#">Ubisoft</a></td>
-								<td>Lørdag den 12. juni</td>
-								<td>21:00</td>
+								<td>TBA</td>
+								<td>TBA</td>
 							</tr>
 							<tr>
 								<td><a href="#">Square Enix</a></td>
-								<td>TBA</td>
-								<td>TBA</td>
-							</tr>
-							<tr>
-								<td><a href="#">Sony</a></td>
 								<td>TBA</td>
 								<td>TBA</td>
 							</tr>
@@ -153,7 +143,7 @@ h1 {
 	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
 	<script>
-	var countDownDate = new Date("Jun 12, 2021 22:00:00").getTime();
+	var countDownDate = new Date("Jun 10, 2022 21:00:00").getTime();
 	var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate - now;
