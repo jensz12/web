@@ -111,7 +111,7 @@ img {
 <div class="container">
   <div class="row">
     <div class="col-lg-12 col-md-12">
-    <img src="https://static.jensz12.com/images/kaj.png">
+    <img src="https://static.jensz12.com/images/kvark.png">
     </div>
   </div>
 </div>

@@ -93,6 +93,18 @@
 						"sizes": "192x192"
 					}
 				]
+			},
+			{
+				"name": "Counter",
+				"short_name": "Counter",
+				"description": "Countdown to things",
+				"url": "/liva",
+				"icons": [
+					{
+						"src": "https://static.jensz12.com/images/192.png",
+						"sizes": "192x192"
+					}
+				]
 			}
 		]
 	}

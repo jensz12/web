@@ -28,52 +28,6 @@ body {
 	background-attachment: fixed;
 	height: 100%;
 	font-family: 'Roboto', sans-serif;
-	padding-top: 35px;
-}
-a:link, a:visited {
-	color: rgb(102, 102, 102);
-	text-decoration: none;
-}
-a:hover, a:active {
-	text-decoration: underline;
-}
-.player {
-    margin-top: 2px;
-    margin-bottom: 2px;
-    margin-right: 2px;
-    margin-left: 2px;
-}
-.fa-heart {
-	color: #A81010;
-}
-.fa-envelope {
-  color: black;
-}
-.fa-twitter {
-  color: #1DA1F2;
-  margin: 5px;
-  }
-.fa-discord {
-  color: #7289DA;
-  margin: 5px;
-}
-.fa-github {
-  color: black;
-  margin: 5px;
-}
-.fa-instagram {
-  color: #E1306C;
-  margin: 5px;
-}
-.fa-snapchat {
-  color: #FFFC00;
-  margin: 5px;
-}
-#animationDuration {
-  width: 50%;
-  display:block;
-  margin: 2em auto;
-  direction: rtl;
 }
 
 </style>
