@@ -102,11 +102,6 @@ body {
     <div class="card-body">
       <h5 class="card-title">Vercinger</h5>
 	  <p>Antal online: <?php echo $status_vercinger->players->online;?></p>
-		<p>Spillere: <?php
-		foreach ($status_vercinger->players->list as $player) {
-			echo $player.'<br />';
-			}
-		?></p>
 		<p>Software: <?php echo $status_vercinger->software;?></p>
 		<p>MC Version: <?php echo $status_vercinger->version;?></p>
 		</div>
@@ -130,7 +125,7 @@ body {
   <div class="card">
     <img src="https://static.jensz12.com/images/dsp.png" class="card-img-top">
     <div class="card-body">
-      <h5 class="card-title">DSP</h5>
+      <h5 class="card-title">De Søsyge Pirater</h5>
 	  <p>Antal online: <?php echo $status_dsp->players->online;?></p>
 		<p>Spillere: <?php
 		foreach ($status_dsp->players->list as $player) {
