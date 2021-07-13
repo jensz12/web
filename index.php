@@ -54,6 +54,12 @@ $klein->respond('GET', '/hash', function($request, $response, $service) {
 	  $service->render('views/hash.php');
 });
 
+$klein->respond('GET', '/e3', function($request, $response, $service) {
+	$service->title = 'E3 2022';
+	$service->description = 'Electronic Entertainment Expo, E3 eller E³ er en årlig underholdningsmesse primært tiltænkt præsentation af fremtidige udgivelser indenfor computerspil og konsolspil';
+	  $service->render('views/e3.php');
+});
+
 $klein->onHttpError(function ($code, $router) {
 	if ($code == 404) {
 		$service = $router->service();
