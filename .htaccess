@@ -34,6 +34,14 @@ ExpiresByType text/css "access plus 2592000 seconds"
 ExpiresByType application/javascript "access plus 2592000 seconds"
 </ifModule>
 
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+
+
 # php -- BEGIN cPanel-generated handler, do not edit
 # Set the “ea-php80” package as the default “PHP” programming language.
 <IfModule mime_module>
