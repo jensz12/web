@@ -52,5 +52,4 @@
             <animate attributeName="cy" dur="500ms" repeatCount="indefinite" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1" values="62;56;59;65;67;73;76;81;74;70;62"/>
         </ellipse>
     </svg>
-	  </div>
-  </div>
+</div>
