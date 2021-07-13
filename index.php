@@ -48,6 +48,12 @@ $klein->respond('GET', '/snapchat', function($request, $response, $service) {
 	  $service->render('views/snapchat.php');
 });
 
+$klein->respond('GET', '/hash', function($request, $response, $service) {
+	$service->title = 'MD5 Hash';
+	$service->description = 'MD5 Hash';
+	  $service->render('views/hash.php');
+});
+
 $klein->onHttpError(function ($code, $router) {
 	if ($code == 404) {
 		$service = $router->service();
