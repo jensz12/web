@@ -19,7 +19,7 @@
     	<h5 class="card-title">Kaj</h5>
 	  	<a class="btn btn-primary" href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=067dfd248d054119a7204040985a68f8&metadata=01" role="button">Åben i Snapchat</a>
     </div>
-/div>
+</div>
 </div>
 <div class="card-group">
   <div class="card">
