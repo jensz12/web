@@ -65,7 +65,7 @@ body {
   	<div class="row">
     	<div class="col-lg-12 col-md-12">
       		<div class="jumbotron">
-    			<h1 class="display-4 text-center">Countdown til Jens er i København</h1>
+    			<h1 class="display-4 text-center">Countdown</h1>
 				<h1 class="display-1 text-center" id="countdown"></h1>
 				<h3 class="text-center"><a href="/party"><i class="fas fa-heart"></i></a></h3>
         	</div>
@@ -75,7 +75,7 @@ body {
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
 <script>
-	var countDownDate = new Date("June 30, 2021 09:00:00").getTime();
+	var countDownDate = new Date("July 23, 2021 09:00:00").getTime();
 	var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate - now;
@@ -87,7 +87,7 @@ body {
     + minutes + "m " + seconds + "s ";
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("countdown").innerHTML = "Hej Liva 🥰";
+        document.getElementById("countdown").innerHTML = "lol";
     }
 }, 1000);
 </script>

@@ -7,7 +7,6 @@ $status_testserver = json_decode(file_get_contents('https://api.mcsrvstat.us/2/t
 <!DOCTYPE html>
 <html lang="da">
 <head>
-<meta name="google-site-verification" content="5Nc1koM3FzbiqnNn96XDtqiGPSlMX5c_aZv1oY6HSdg" />
 <meta charset="utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
