@@ -39,10 +39,15 @@ body {
   .card-title, h1, h2, h3, h4, h5, p, b, card-text, a:link, .fa-envelope, a:visited, th, tr {
     color: black;
   }
-  .jumbotron, .card {
+  .jumbotron {
+    background-color: white;
+  }
+
+  .card {
     background-color: white;
     margin: 30px;
   }
+
     .fa-github {
     color: black;
     margin: 5px;
@@ -55,10 +60,15 @@ body {
   .card-title, h1, h2, h3, h4, h5, p, b, card-text, a:link, .fa-envelope, a:visited, th, tr {
     color: white;
   }
-  .jumbotron, .card {
+  .jumbotron {
+    background-color: #212121;
+  }
+
+  .card {
     background-color: #212121;
     margin: 30px;
   }
+
   .fa-github {
   color: white;
   margin: 5px;
