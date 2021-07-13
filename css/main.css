@@ -1,0 +1,112 @@
+body {
+	background-image: url(https://design.jensz12.com/images/screen-back.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+	height: 100%;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+.fa-heart {
+	color: #A81010;
+ margin-top: 10px;
+}
+.fa-twitter {
+  color: #1DA1F2;
+  margin: 5px;
+  }
+.fa-discord {
+  color: #7289DA;
+  margin: 5px;
+}
+.fa-instagram {
+  color: #E1306C;
+  margin: 5px;
+}
+.fa-snapchat {
+  color: #FFFC00;
+  margin: 5px;
+}
+.img {
+    margin : 10px;
+    margin-bottom: 40px;
+}
+
+@media (prefers-color-scheme: light) {
+
+  .card-title, h1, h2, h3, h4, h5, p, b, card-text, a:link, .fa-envelope, a:visited, th, tr {
+    color: black;
+  }
+  .jumbotron, .card {
+    background-color: white;
+    margin: 30px;
+  }
+    .fa-github {
+    color: black;
+    margin: 5px;
+}
+
+}
+
+@media (prefers-color-scheme: dark) {
+
+  .card-title, h1, h2, h3, h4, h5, p, b, card-text, a:link, .fa-envelope, a:visited, th, tr {
+    color: white;
+  }
+  .jumbotron, .card {
+    background-color: #212121;
+    margin: 30px;
+  }
+  .fa-github {
+  color: white;
+  margin: 5px;
+}
+
+}
+
+.kaj {
+	width: 500px;
+	margin: 50px auto 0;
+	display: block;
+	max-width: 100%;
+	-webkit-animation: kaj 1s infinite;
+	animation-name: kaj;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes kaj {
+	from {
+		-webkit-transform: rotate(0turn);
+		transform: rotate(0turn);
+	}
+
+	to {
+		-webkit-transform: rotate(1turn);
+		transform: rotate(1turn);
+	}
+}
+
+@-moz-keyframes kaj {
+	from {
+		-moz-transform: rotate(0turn);
+		transform: rotate(0turn);
+	}
+
+	to {
+		-moz-transform: rotate(1turn);
+		transform: rotate(1turn);
+	}
+}
+
+@keyframes kaj {
+	from {
+		transform: rotate(0turn);
+	}
+
+	to {
+		transform: rotate(1turn);
+	}
+}
