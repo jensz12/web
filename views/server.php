@@ -27,6 +27,7 @@ $status_testserver = json_decode(file_get_contents('https://api.mcsrvstat.us/2/t
 	  	<p>Antal online: <?php echo $status_vercinger->players->online;?></p>
 		<p>Software: <?php echo $status_vercinger->software;?></p>
 		<p>MC Version: <?php echo $status_vercinger->version;?></p>
+		<a class="btn btn-primary" href="https://map.vercinger.dk" role="button"><i class="fal fa-map"></i> Åben kort</a>
 		</div>
 </div>
 <div class="card">
@@ -41,6 +42,7 @@ $status_testserver = json_decode(file_get_contents('https://api.mcsrvstat.us/2/t
 		?></p>
 		<p>Software: <?php echo $status_jens->software;?></p>
 		<p>MC Version: <?php echo $status_jens->version;?></p>
+		<a class="btn btn-primary" href="https://jens.map.minecraftserver.dk" role="button"><i class="fal fa-map"></i> Åben kort</a>
     </div>
 </div>
 </div>
@@ -71,6 +73,7 @@ $status_testserver = json_decode(file_get_contents('https://api.mcsrvstat.us/2/t
 		?></p>
 		<p>Software: <?php echo $status_testserver->software;?></p>
 		<p>MC Version: <?php echo $status_testserver->version;?></p>
+		<a class="btn btn-primary" href="https://test.map.minecraftserver.dk" role="button"><i class="fal fa-map"></i> Åben kort</a>
     </div>
 </div>
 </div>
